@@ -1,0 +1,13 @@
+# Ambiente virtual
+env/
+venv/
+.projeto_aws/
+
+# Configurações sensíveis
+pipeline.conf
+*.conf
+
+# Arquivos temporários
+*.csv
+__pycache__/
+
